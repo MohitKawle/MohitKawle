@@ -5,6 +5,9 @@
 ABOUT ME :-
 My name is Mohit Kawle
 
+Dedicated and detail-oriented aspiring full-stack developer with a specialization in MERN stack. Looking forward to honing skills in a challenging work environment.
+
+
 <!--
 **MohitKawle/MohitKawle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
