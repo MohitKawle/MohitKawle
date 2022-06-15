@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Thanks for stoping by
 
 ![Alt text](https://cdn3.iconfinder.com/data/icons/roles-computer-it/128/programmer-2-512.png)
 
