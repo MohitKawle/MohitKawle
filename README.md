@@ -1,7 +1,7 @@
 ### Hi there 👋
-![image](![image](https://user-images.githubusercontent.com/99836005/173870758-abf05f5c-fef9-4fb0-bcf8-5b17c4c429fd.png)
-)
 
+
+![Alt text]([http://full/path/to/img.jpg](https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2017/02/Blog-Cover-image-Fullstack-Highres.jpg) "Optional title")
 ABOUT ME :-
 My name is Mohit Kawle
 
