@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohitKawle&repo=portfolio)
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MohitKawle&count_private=true&theme=tokyonight&showicons=true)]()
