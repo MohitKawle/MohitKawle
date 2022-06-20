@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohitKawle&repo=portfolio)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohitKawle&repo=Orbitz)
 
 
 
