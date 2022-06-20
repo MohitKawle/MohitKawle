@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Portfolio template
 - 🌱 I’m currently learning Mern Stack
-- 👯 I’m looking to collaborate on inovative ideas
+- 👯 I’m looking to collaborate on innovative ideas
 - 🤔 I’m looking for help with System design
 - 💬 Ask me about :- My projects 
 - 📫 How to reach me: Gmail:- kawlemohit@gmail.com 
-
 - ⚡ Fun fact: I love Reading
 
 ### Some Of My Works:--
