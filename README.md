@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohitKawle&repo=pulseOximeter)
 
-###        i'm currently learning
+###        I'm currently learning
 
 ![Alt text](https://academicwritingforstudents.com/wp-content/uploads/2020/12/MERN-stack.png)
 
