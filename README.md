@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Few Of My Works:--
+### Some Of My Works:--
 
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohitKawle&repo=Orbitz)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohitKawle&repo=Portfolio)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohitKawle&repo=mamaEarthClone)
 
 
 
