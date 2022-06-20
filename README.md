@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ###        i'm currently learning
 
-![Alt text](https://wallpapercave.com/wp/wp2465915.png)
+![Alt text](https://academicwritingforstudents.com/wp-content/uploads/2020/12/MERN-stack.png)
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MohitKawle&count_private=true&theme=tokyonight&showicons=true)]()
