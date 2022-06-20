@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohitKawle&repo=react-app-dotandkey)
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MohitKawle&repo=pulseOximeter)
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MohitKawle&count_private=true&theme=tokyonight&showicons=true)]()
