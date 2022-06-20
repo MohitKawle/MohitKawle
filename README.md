@@ -8,20 +8,20 @@ My name is Mohit Kawle
 Dedicated and detail-oriented aspiring full-stack developer with a specialization in MERN stack. Looking forward to honing skills in a challenging work environment.
 
 
-<!--
-**MohitKawle/MohitKawle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **MohitKawle/MohitKawle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Portfolio template
+- 🌱 I’m currently learning Mern Stack
+- 👯 I’m looking to collaborate on inovative ideas
+- 🤔 I’m looking for help with System design
+- 💬 Ask me about :- My projects 
+- 📫 How to reach me: Gmail:- kawlemohit@gmail.com 
+
+- ⚡ Fun fact: I love Reading
+
 ### Some Of My Works:--
 
 
