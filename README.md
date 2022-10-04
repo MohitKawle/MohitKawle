@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about :- My projects 
 - 📫 How to reach me: Gmail:- kawlemohit@gmail.com 
 - ⚡ Fun fact: I love Reading
--portfolio -https://mohit-kawle-portfolio.netlify.app/
--Linkedin -http://www.linkedin.com/in/mohit-kawle-529b661a3
+- portfolio -https://mohit-kawle-portfolio.netlify.app/
+- Linkedin -http://www.linkedin.com/in/mohit-kawle-529b661a3/
 
 
 ### Some Of My Works:--
