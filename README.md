@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with System design
 - 💬 Ask me about :- My projects 
 - 📫 How to reach me: Gmail:- kawlemohit@gmail.com 
-- ⚡ Fun fact: I love Reading
+- ⚡ Fun fact: I love I love Coding
+
 - portfolio -https://mohit-kawle-portfolio.netlify.app/
 - Linkedin -http://www.linkedin.com/in/mohit-kawle-529b661a3/
+ I lve problem solving and coding  
 
 
 ### Some Of My Works:--
