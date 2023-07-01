@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ###        I'm currently learning
 
-![Alt text](https://cdn3.iconfinder.com/data/icons/roles-computer-it/128/programmer-2-512.png)
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmwmS1EfFPxmFmDn3EHoaeGHQc_XJrNsAMAw&usqp=CAU)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MohitKawle&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKawle&langs_count=5&theme=tokyonight)]()
