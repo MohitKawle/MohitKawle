@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ###        I'm currently learning
 
-![Alt text](https://academicwritingforstudents.com/wp-content/uploads/2020/12/MERN-stack.png)
+![Alt text]([https://academicwritingforstudents.com/wp-content/uploads/2020/12/MERN-stack.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png)
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MohitKawle&count_private=true&theme=tokyonight&showicons=true)]()
